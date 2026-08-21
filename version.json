@@ -1,6 +1,6 @@
 {
   "version": "V2.51",
-  "binUrl": "https://github.com/omseven/wf001-firmware/releases/latest/download/WaterFix_Controller.efw",
+  "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/WF001/WaterFix_Controller.efw",
   "file": "WaterFix_Controller.efw",
   "notes": "Official release V2.51: Added Material Design Time Picker popup with touch up/down steppers and swipe gestures, responsive mobile subtabs, updated MFI options (Max Pressure Switch), and H26 range (1-300 min).",
   "notesFa": "نسخه رسمی ۲.۵۱: افزوده شدن پاپ‌آپ مدرن متریال دیزاین تنظیم زمان با کلیدهای لمسی بالا/پایین و سوایپ، بهبود کامل چیدمان موبایل نوار تب‌های پارامترها، اصلاح گزینه ماکس پرشر سوییچ (MP) در ورودی‌ها و تنظیم بازه H26 به ۱ تا ۳۰۰ دقیقه."
