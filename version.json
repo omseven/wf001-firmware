@@ -1,9 +1,11 @@
 {
   "version": "V2.51",
+  "previousVersion": "V2.50",
+  "releaseDate": "2026-08-26",
   "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/WF001/WaterFix_Controller.efw",
   "file": "WaterFix_Controller.efw",
-  "notes": "Official release V2.51: Added Material Design Time Picker popup with touch up/down steppers and swipe gestures, responsive mobile subtabs, updated MFI options (Max Pressure Switch), and H26 range (1-300 min).",
-  "notesFa": "نسخه رسمی ۲.۵۱: افزوده شدن پاپ‌آپ مدرن متریال دیزاین تنظیم زمان با کلیدهای لمسی بالا/پایین و سوایپ، بهبود کامل چیدمان موبایل نوار تب‌های پارامترها، اصلاح گزینه ماکس پرشر سوییچ (MP) در ورودی‌ها و تنظیم بازه H26 به ۱ تا ۳۰۰ دقیقه."
+  "notes": "Upgrade V2.50 -> V2.51 Changelog:\n1. Alarms: Standardized display codes matching hardware (ALN0: SEN, ALN2: MP, ALN3: EMG, ALN6: OC, ALN16: ALH).\n2. Security: Automated NVS provisioning for AES-128 cryptographic keys with encrypted OTA stream processing.\n3. UI/UX: Material Design Time Picker with touch steppers and auto-repeat, responsive mobile parameter subtabs.\n4. Stability: Fixed FOUC flash on boot, fixed post-login backdrop blur, and eliminated local OTA network dropouts with yield stream processing.\n5. Parameters: Extended H26 timer range (1-300 min) and updated multifunction MFI/MFO options.",
+  "notesFa": "تغییرات و ارتقای نسخه ۲.۵۰ به ۲.۵۱:\n۱. خطاها: تطبیق کامل کدهای خطا با نمایشگر دستگاه (ALN0: SEN، ALN2: MP، ALN3: EMG، ALN6: OC، ALN16: ALH).\n۲. امنیت: تأمین خودکار کلیدهای امنیتی AES-128 در NVS و پردازش استریم رمزنگاری‌شده OTA.\n۳. رابط کاربری: پاپ‌آپ متریال دیزاین تنظیم زمان با کلیدهای لمسی و سوایپ، بهبود کامل چیدمان موبایل تب‌های پارامترها.\n۴. پایداری: رفع پرش صفحه هنگام لود اولیه (FOUC)، رفع مات ماندن صفحه پس از لاگین و رفع قطعی شبکه در آپلود فایل لوکال.\n۵. پارامترها: افزایش بازه H26 به ۱ تا ۳۰۰ دقیقه و به‌روزرسانی گزینه‌های ورودی/خروجی‌های چندمنظوره (MFI/MFO)."
 }
 
 
