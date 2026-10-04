@@ -3,7 +3,7 @@
   "version": "V2.53",
   "minAppVersion": "1.0",
   "releaseDate": "2026-10-04",
-  "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/V2.53/WaterFix_Controller.efw",
+  "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/WF001/WaterFix_Controller.efw",
   "notes": "Firmware V2.53: Full web panel with Captive Portal disabled (no unwanted popups on Wi-Fi connect), seamless SmartHub integration, fast in-app radar auto-discovery, robust RTC synchronization, and safe OTA flashing.",
   "notesFa": "نسخه ۲.۵۳: پنل وب کامل با غیرفعال‌سازی سراسری Captive Portal (عدم باز شدن خودکار و ناخواسته مرورگر هنگام اتصال به وای‌فای)، کشف سریع راداری در اپلیکیشن، همگام‌سازی RTC و ارتقای بهینه فریم‌ور."
 }
