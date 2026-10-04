@@ -1,9 +1,9 @@
 {
   "device": "WaterFix WF001",
-  "version": "V2.52",
+  "version": "V2.53",
   "minAppVersion": "1.0",
-  "releaseDate": "2026-09-27",
-  "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/WF001/WaterFix_Controller.efw",
-  "notes": "Firmware V2.52: Enhanced SmartHub integration, fast in-app radar auto-discovery, robust RTC synchronization, and seamless OTA flashing.",
-  "notesFa": "نسخه ۲.۵۲: بهبود یکپارچه‌سازی با اسمارت‌هاب، جستجوی فوق سریع راداری، همگام‌سازی پایدار ساعت RTC و ارتقای بهینه فریمور از طریق OTA."
+  "releaseDate": "2026-10-04",
+  "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/V2.53/WaterFix_Controller.efw",
+  "notes": "Firmware V2.53: Full web panel with Captive Portal disabled (no unwanted popups on Wi-Fi connect), seamless SmartHub integration, fast in-app radar auto-discovery, robust RTC synchronization, and safe OTA flashing.",
+  "notesFa": "نسخه ۲.۵۳: پنل وب کامل با غیرفعال‌سازی سراسری Captive Portal (عدم باز شدن خودکار و ناخواسته مرورگر هنگام اتصال به وای‌فای)، کشف سریع راداری در اپلیکیشن، همگام‌سازی RTC و ارتقای بهینه فریم‌ور."
 }
