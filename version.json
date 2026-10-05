@@ -1,9 +1,9 @@
 {
   "device": "WaterFix WF001",
-  "version": "V2.53",
+  "version": "V2.54",
   "minAppVersion": "1.0",
-  "releaseDate": "2026-10-04",
+  "releaseDate": "2026-10-05",
   "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/WF001/WaterFix_Controller.efw",
-  "notes": "Firmware V2.53: Full web panel with Captive Portal disabled (no unwanted popups on Wi-Fi connect), seamless SmartHub integration, fast in-app radar auto-discovery, robust RTC synchronization, and safe OTA flashing.",
-  "notesFa": "نسخه ۲.۵۳: پنل وب کامل با غیرفعال‌سازی سراسری Captive Portal (عدم باز شدن خودکار و ناخواسته مرورگر هنگام اتصال به وای‌فای)، کشف سریع راداری در اپلیکیشن، همگام‌سازی RTC و ارتقای بهینه فریم‌ور."
+  "notes": "Firmware V2.54: Full Load pressure limit interlocking with cut-in pressure (H19 <= P1), strictly non-negative parameters, dynamic MFO1/MFO2 selection (filtering option 8 in Mode 1&2, exclusive in Mode 3&4), and enhanced network backup.",
+  "notesFa": "نسخه ۲.۵۴: قفل متقابل فشار فول‌لود با فشار استارت (عدم تنظیم H19 بالاتر از P1)، اعتبارسنجی مقادیر غیرمنفی برای تمام پارامترها، فیلتر داینامیک گزینه‌های MFO1 و MFO2 بر اساس مد کاری ۱ تا ۴ در پنل و وب، و پشتیبان‌گیری خودکار شبکه."
 }
