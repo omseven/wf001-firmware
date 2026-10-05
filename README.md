@@ -42,7 +42,7 @@ The **WaterFix WF001** is a cutting-edge, industrial smart booster pump controll
 - **Glassmorphism Web Dashboard:** Fully responsive web application hosted on-board supporting live pressure gauges, power analytics, alarm logging, and full parameter configuration.
 - **Fast In-App Radar Auto-Discovery:** Seamless discovery and control from the **ElecMarketing SmartHub App**.
 - **Hardware Real-Time Clock (RTC):** Built-in RTC with 5-program weekly scheduling timers for pump operation and auxiliary relay automation.
-- **Encrypted OTA Firmware Updates:** Secure Over-The-Air firmware updates with AES-encrypted `.efw` firmware packages.
+- **OTA Firmware Updates:** Seamless Over-The-Air firmware updates with official `.efw` firmware packages.
 
 ---
 
@@ -53,7 +53,7 @@ This repository serves as the central endpoint for online and local OTA firmware
 ### Latest Release
 - **Version:** `V2.54`
 - **Release Tag:** [`WF001`](https://github.com/omseven/wf001-firmware/releases/tag/WF001)
-- **Binary Image (Encrypted):** [`WaterFix_Controller.efw`](https://github.com/omseven/wf001-firmware/releases/download/WF001/WaterFix_Controller.efw)
+- **Binary Image:** [`WaterFix_Controller.efw`](https://github.com/omseven/wf001-firmware/releases/download/WF001/WaterFix_Controller.efw)
 - **Metadata JSON:** [`version.json`](https://raw.githubusercontent.com/omseven/wf001-firmware/main/version.json)
 
 ### OTA Update Instructions
